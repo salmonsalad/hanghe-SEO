@@ -68,3 +68,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+웹사이트 SEO 개선을 위한 주요 조치 사항 요약:
+
+1. **H1 및 H2 헤딩 태그 추가**: 검색 엔진에 웹사이트 구조와 중요 내용을 명확히 전달
+2. **사용자 정의 404 페이지 구현**: 존재하지 않는 페이지에 대한 사용자 경험을 개선
+3. **DNS SPF 레코드 설정**: 이메일 스푸핑 및 피싱 방지로 이메일 보안을 강화
+
+Favicon Generator를 통해 생성되는 주요 파일들과 그 용도는 다음과 같습니다:
+
+1. **favicon.ico**: 대부분의 브라우저에서 지원되는 웹사이트 아이콘
+2. **apple-touch-icon.png**: iOS에서 웹사이트를 홈 화면에 추가할 때 사용되는 아이콘
+3. **favicon-32x32.png 및 favicon-16x16.png**: 높은 해상도의 작은 사이즈 PNG 아이콘 파일
+4. **site.webmanifest**: 웹 애플리케이션 정보를 담은 파일로, PWA에서 사용
+5. **browserconfig.xml**: 주로 Microsoft Edge와 Internet Explorer에서 사용되는 파일
+
+
