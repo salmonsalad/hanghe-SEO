@@ -46,7 +46,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 2. **사용자 정의 404 페이지 구현**: 존재하지 않는 페이지에 대한 사용자 경험을 개선
 3. **DNS SPF 레코드 설정**: 이메일 스푸핑 및 피싱 방지로 이메일 보안을 강화
 
-Favicon Generator를 통해 생성되는 주요 파일들과 그 용도는 다음과 같습니다:
+Favicon Generator를 통해 생성되는 주요 파일들과 그 용도:
 
 1. **favicon.ico**: 대부분의 브라우저에서 지원되는 웹사이트 아이콘
 2. **apple-touch-icon.png**: iOS에서 웹사이트를 홈 화면에 추가할 때 사용되는 아이콘
